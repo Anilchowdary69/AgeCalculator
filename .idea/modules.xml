@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ageCalc.iml" filepath="$PROJECT_DIR$/.idea/ageCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ageCalculator.iml" filepath="$PROJECT_DIR$/.idea/ageCalculator.iml" />
     </modules>
   </component>
 </project>
